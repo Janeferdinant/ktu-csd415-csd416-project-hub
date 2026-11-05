@@ -4,6 +4,10 @@
 
 Designed & Developed for Academic Learning | **Jane Rose** | Department of Computer Science & Engineering
 
+🌐 **Live Vercel Production Deployment:** [https://ktu-csd415-csd416-project-hub.vercel.app](https://ktu-csd415-csd416-project-hub.vercel.app)  
+📦 **GitHub Repository:** [https://github.com/Janeferdinant/ktu-csd415-csd416-project-hub](https://github.com/Janeferdinant/ktu-csd415-csd416-project-hub)  
+📄 **Official KTU Syllabus:** `CS merged.pdf` / `public/CS_merged_KTU_Syllabus.pdf`
+
 ---
 
 ## 1. Executive Summary
